@@ -10,7 +10,7 @@ sites:
   - name: GitScrobble
     url: https://gitscrobble.nixie.online
   - name: No as a Service API
-    url: https://naas.api.nixie.online
+    url: https://naas.api.nixie.online/no
   - name: Microsoft Key Management Server (KMS
     check: tcp-ping
     url: kms.nixie.online
